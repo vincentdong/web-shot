@@ -1,1 +1,3 @@
-fbgfekfbekb
+import sys
+
+print 'helloe world'
