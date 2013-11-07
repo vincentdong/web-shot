@@ -1,7 +1,7 @@
 import sys
 
 print 'helloe world'
-dprint 'fgwegew'
+print 'fgwegew'
 print 'sfdd'
 print 'system' 
 print 'me'
